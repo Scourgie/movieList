@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\MovieListAdolfson.csproj": {}
+    "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\MovieListAdolfson.csproj": {}
   },
   "projects": {
-    "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\MovieListAdolfson.csproj": {
+    "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\MovieListAdolfson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\MovieListAdolfson.csproj",
+        "projectUniqueName": "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\MovieListAdolfson.csproj",
         "projectName": "MovieListAdolfson",
-        "projectPath": "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\MovieListAdolfson.csproj",
+        "projectPath": "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\MovieListAdolfson.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\obj\\",
+        "outputPath": "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",

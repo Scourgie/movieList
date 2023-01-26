@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNDu+2tF0iwRr7+Va1c8NbXGTtZ38QNeyDFTmhLGgPMbA3SW/b7O19wk5Snl++9yB3TNthU5DNAZmBwhmqpQ7Q==",
+  "dgSpecHash": "8Ze4vb5YuOWfrqRxfPepe06q0MhcWG+brBy4qE59LA5LEmnDmzp/lL5uTsCz8Ny1lwsZdC1gcyGEseylHnvLhw==",
   "success": true,
-  "projectFilePath": "E:\\College_Homework\\Homework\\Coding\\CSharp\\Assignment_Advanced_CSharp\\MovieListAdolfson\\MovieListAdolfson.csproj",
+  "projectFilePath": "E:\\PersonalProjects\\movieList\\MovieListAdolfson\\MovieListAdolfson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

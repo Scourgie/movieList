@@ -19,8 +19,8 @@ namespace MovieListAdolfson.Models
         public int? Rating { get; set; }
 
         [Required(ErrorMessage = "Please enter a genre.")]
-        public string GenreId { get; set; }
-        public Genre Genre { get; set; }
+        public string? GenreId { get; set; }
+        public Genre? Genre { get; set; }
 
     }
 }
